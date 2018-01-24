@@ -1,0 +1,68 @@
+body, html {
+  font-family: serif;
+  font-size: 1em;
+  padding: 0px;
+  margin: 0px;
+  boarder: 0px;
+  line-height: 1.25;
+}
+
+.nav {
+  margin-top: 0px;
+
+}
+
+ul.nav {
+  height: 55px;
+  list-style-type: none;
+  padding: : 0px;
+  background-color: #241f20;
+  text-align: center;
+  font-size: 1.25em;
+  font-weight: bold;
+
+}
+
+.nav li {
+  display: inline-block;
+}
+
+.nav li a {
+font-size: 1.1em;
+  float: left;
+  color: white;
+  padding: 14px 10px;
+  text-decoration: none;
+}
+
+.nav li a:hover {
+  background-color: #111;
+}
+
+h1{
+  font-size: 1em;
+  padding-left: 25%;
+  padding-right: 25%;
+}
+
+.title1 {
+  font-size: 1.5em;
+  margin-bottom: 15px;
+  padding: 0px;
+}
+
+.title2{
+  padding-top: 15px;
+  font-style: oblique;
+  font-size: 1.15em;
+
+
+}
+
+p{
+  margin: 5px;
+}
+
+#construction{
+  text-align: center;
+}
